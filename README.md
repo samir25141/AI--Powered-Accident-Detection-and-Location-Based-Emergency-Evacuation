@@ -114,7 +114,7 @@ The frontend setup is quite easy, unlike backend setup as it does not require an
     
     <td valign="top" align="center">
         <div>
-          <img src="/client/public/assets/images/samir_profile2.jpg" width="150px;"/><br /><sub><a href="https://github.com/samir25141">Md Samir</a>
+          <img src="https://avatars.githubusercontent.com/u/154661655?v=4"/><br /><sub><a href="https://github.com/samir25141">Md Samir</a>
         </div>
     </td>
     <td valign="top" align="center">
