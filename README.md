@@ -114,7 +114,17 @@ The frontend setup is quite easy, unlike backend setup as it does not require an
     
     <td valign="top" align="center">
         <div>
-          <img src="" width="150px;"/><br /><sub><a href="https://github.com/ebra">Md Samir</a>
+          <img src="/client/public/assets/images/samir_profile2.jpg" width="150px;"/><br /><sub><a href="https://github.com/samir25141">Md Samir</a>
+        </div>
+    </td>
+    <td valign="top" align="center">
+        <div>
+          <img src="" width="150px;"/><br /><sub><a href="">Md Shahjaman</a>
+        </div>
+    </td>
+    <td valign="top" align="center">
+        <div>
+          <img src="" width="150px;"/><br /><sub><a href="">Md Junaid Ahmad</a>
         </div>
     </td>
 </table>
